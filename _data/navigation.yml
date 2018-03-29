@@ -3,7 +3,7 @@
   new_window: false
   highlight: false
 - name: News
-bb  link: /blog/
+  link: /blog/
   new_window: false
   highlight: false
 - name: Research
